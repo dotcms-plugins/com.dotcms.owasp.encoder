@@ -1,8 +1,8 @@
-# Owasp Encoder Viewtool
+# Owasp Encoder Plugin
 
 This plugin provides a Velocity viewtool that is intended to help prevent XSS based attacks.  It wraps the methods made available by the Owasp Encoder class that can be called in your velocity code to sanitize the output of your templates.
 
-For more information see their docs https://owasp.org/www-project-java-encoder/
+For more information on how to use, see the OWASP docs https://owasp.org/www-project-java-encoder/
 
 
 
